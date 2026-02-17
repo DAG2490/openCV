@@ -1,3 +1,10 @@
+"""
+Author: Daniel Gonzalez
+Project: Biometric Face Detection (Spring 2026)
+Description: This script uses OpenCV's Haar Cascade to perform 
+             real-time face detection via webcam.
+"""
+
 import cv2
 
 # Set the classifier path
